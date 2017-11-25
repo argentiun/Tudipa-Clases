@@ -9,3 +9,7 @@
 #### - Eduardo Dorado
 #### - Tomas Rodriguez
 #### - Matias Galarza Leal
+
+### Notas Adjuntas:
+
+#### - Favor de cambiar en la carpeta Clases, en el archivo dbMySQL.php el User y Pass de su Base de Datos.
