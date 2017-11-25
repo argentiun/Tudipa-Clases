@@ -10,7 +10,7 @@ class dbMySQL extends db {
     $dsn = 'mysql:host=localhost;dbname=tudipa;
     charset=utf8mb4';
     $user ="root";
-    $pass = "";
+    $pass = "root";
 
     try {
       $this->conn = new PDO($dsn, $user, $pass);
